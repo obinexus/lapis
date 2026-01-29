@@ -1,6 +1,6 @@
 # A Human-Centric Framework for Electromagnetic Exoskeleton Control: Lapis-Lambda Partial Differential Equations with Thermal-Force Equivalence
 
-**Author:** Your Name  
+**Author:** Nnamdi Michael Okpala
 **Date:** January 29, 2026
 
 ---
